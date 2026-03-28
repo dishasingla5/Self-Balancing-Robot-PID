@@ -1,4 +1,4 @@
-# Self-Balancing Robot using PID Control
+# Control System: PID controller for stabilization
 
 This project implements a real-time closed-loop control system for a two-wheeled self-balancing robot using MPU6050 IMU and PID control.
 
